@@ -1,0 +1,1 @@
+[{"uid":"1298f0e03d46c3e4","name":"Add purchase details","time":{"start":1780930923816,"stop":1780930962587,"duration":38771},"status":"passed","severity":"normal"},{"uid":"afd9413bd96c076","name":"purchase monitor","time":{"start":1780930746849,"stop":1780930867537,"duration":120688},"status":"broken","severity":"normal"}]

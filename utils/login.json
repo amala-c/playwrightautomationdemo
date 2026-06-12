@@ -1,0 +1,32 @@
+
+[
+    {
+    "susername":"testamala",
+    "spassword":"amala"
+    },
+    {
+    "lusername":"amala",
+    "lpassword":"amala"
+    },
+    {
+    "lusername1":"invaliduser",
+    "lpassword1":"amala"
+    },
+    {
+    "lusername2":"amala",
+    "lpassword2":"invalidpassword"
+    },
+    {
+    "lusername3":"invaliduser",
+    "lpassword3":"invalidpassword"
+    },
+    {
+    "name":"amala",
+    "country":"India",
+    "city":"Kottayam",
+    "card":"4000000000000002",
+    "month":"August",
+    "year":"2026"
+}
+
+]
